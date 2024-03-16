@@ -1,0 +1,52 @@
+{% extends 'main/base.html' %}
+{% block content %}
+<form method="post" action="{% url 'quiz_self' %}" onsubmit="return validateForm()">
+    {% csrf_token %}
+    <div class="container" style="width: 1000px;">
+        <div class="card" style="padding-left: 250px;">
+            <h1>Aptitude Skill Test - Quiz 2</h1>
+        </div><br>
+        <div id="self_quiz" class="card">
+            <!-- Loop through the quizzes -->
+            {% for quiz in self_quiz %}
+
+            <!-- Loop through the questions for the current quiz -->
+            {% for question in quiz.questions %}
+            <div class="card-body">
+                <h5><p>{{ forloop.parentloop.counter }}. &nbsp;{{ question.question }}</p></h5>
+                <input id="ca_{{ question.id }}" type="hidden" value=" {{ question.correct_answer }}">
+
+                <!-- Loop through the answer choices with radio buttons -->
+                <ul>
+                    {% for answer in question.answers %}
+                    <li>
+                        <input type="radio" name="question_{{ question.id }}_{{ forloop.parentloop.counter }}_answer"
+                            value="{{ answer }}">
+                        {{ answer }}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endfor %}
+            {% endfor %}
+            <button type="submit" id="self_btn" class="btn btn-secondary float-end" style="height: 75px; width: 75x;">Finish</button>
+        </div>
+</form>
+</div>
+<script>
+    function validateForm() {
+        var questions = document.querySelectorAll('[name^="question_"]');
+
+        for (var i = 0; i < questions.length; i++) {
+            var question = questions[i];
+            var groupName = question.getAttribute('name');
+            var selectedAnswer = document.querySelector('input[name="' + groupName + '"]:checked');
+
+            if (!selectedAnswer) {
+                alert('Please answer all questions before moving to the next stage.');
+                return false; // Prevent form submission
+            }
+        }
+    }
+</script>
+{% endblock %}

@@ -1,0 +1,27 @@
+{% extends 'main/base.html' %}
+{% block content %}
+<head>
+    <title>Profile</title>
+</head>
+<div class="container">
+    <div class="header">
+        <h2>User Profile</h2>
+    </div>
+    <div class="row">
+        <div class="col-8">col-8</div>
+        <div class="col-4 float-end"> 
+            {% if user_profile %}
+            <p>Username: {{ user_profile.username }}</p>
+            <p>Email: {{ user_profile.email }}</p>
+            <!-- Add other profile fields as needed -->
+            {% else %}
+            <p>You are not logged in.</p>
+            {% endif %}
+        
+            {% if user.is_authenticated %}
+            <span class="dot"></span>
+            <a href="{% url 'logout' %}" class="float-end btn btn-outline-danger">Logout</a>
+        {% endif %}</div>
+      </div>
+</div>
+{% endblock %}

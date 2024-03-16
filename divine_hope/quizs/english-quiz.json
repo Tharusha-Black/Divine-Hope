@@ -1,0 +1,372 @@
+[
+    {
+      "question": "Can I park here?",
+      "answers": [
+        "Sorry, I did that.",
+        "It's the same place.",
+        "Only for half an hour."
+      ],
+      "correct_answer": "Only for half an hour.",
+      "id": 1
+    },
+    {
+      "question": "What colour will you paint the children's bedroom?",
+      "answers": [
+        "I hope it was right.",
+        "We can't decide.",
+        "It wasn't very difficult."
+      ],
+      "correct_answer": "We can't decide.",
+      "id": 2
+    },
+    {
+      "question": "I can't understand this email.",
+      "answers": [
+        "Would you like some help?",
+        "Don't you know?",
+        "I suppose you can."
+      ],
+      "correct_answer": "Would you like some help?",
+      "id": 3
+    },
+    {
+      "question": "I'd like two tickets for tomorrow night.",
+      "answers": [
+        "How much did you pay?",
+        "Afternoon and evening.",
+        "I'll just check for you."
+      ],
+      "correct_answer": "I'll just check for you.",
+      "id": 4
+    },
+    {
+      "question": "Shall we go to the gym now?",
+      "answers": [
+        "I'm too tired.",
+        "It's very good.",
+        "Not at all."
+      ],
+      "correct_answer": "I'm too tired.",
+      "id": 5
+    },
+    {
+      "question": "His eyes were ...... bad that he couldn't read the number plate of the car in front.",
+      "answers": [
+        "such",
+        "too",
+        "so",
+        "very"
+      ],
+      "correct_answer": "so",
+      "id": 6
+    },
+    {
+      "question": "The company needs to decide ...... and for all what its position is on this point.",
+      "answers": [
+        "here",
+        "once",
+        "first",
+        "finally"
+      ],
+      "correct_answer": "once",
+      "id": 7
+    },
+    {
+      "question": "Don't put your cup on the ...... of the table – someone will knock it off.",
+      "answers": [
+        "outside",
+        "edge",
+        "boundary",
+        "border"
+      ],
+      "correct_answer": "edge",
+      "id": 8
+    },
+    {
+      "question": "I'm sorry - I didn't ...... to disturb you.",
+      "answers": [
+        "hope",
+        "think",
+        "mean",
+        "suppose"
+      ],
+      "correct_answer": "mean",
+      "id": 9
+    },
+    {
+      "question": "The singer ended the concert ...... her most popular song.",
+      "answers": [
+        "by",
+        "with",
+        "in",
+        "as"
+      ],
+      "correct_answer": "with",
+      "id": 10
+    },
+    {
+      "question": "Would you mind ...... these plates a wipe before putting them in the cupboard?",
+      "answers": [
+        "making",
+        "doing",
+        "getting",
+        "giving"
+      ],
+      "correct_answer": "giving",
+      "id": 11
+    },
+    {
+      "question": "...... tired Melissa is when she gets home from work, she always makes time to say goodnight to the children.",
+      "answers": [
+        "Whatever",
+        "No matter how",
+        "However much",
+        "Although"
+      ],
+      "correct_answer": "No matter how",
+      "id": 12
+    },
+    {
+      "question": "It was only ten days ago ...... she started her new job.",
+      "answers": [
+        "then",
+        "since",
+        "after",
+        "that"
+      ],
+      "correct_answer": "that",
+      "id": 13
+    },
+    {
+      "question": "The shop didn't have the shoes I wanted, but they've ...... a pair specially for me.",
+      "answers": [
+        "booked",
+        "ordered",
+        "commanded",
+        "asked"
+      ],
+      "correct_answer": "ordered",
+      "id": 14
+    },
+    {
+      "question": "Have you got time to discuss your work now or are you ...... to leave?",
+      "answers": [
+        "thinking",
+        "round",
+        "planned",
+        "about"
+      ],
+      "correct_answer": "about",
+      "id": 15
+    },
+    {
+      "question": "She came to live here ...... a month ago.",
+      "answers": [
+        "quite",
+        "beyond",
+        "already",
+        "almost"
+      ],
+      "correct_answer": "almost",
+      "id": 16
+    },
+    {
+      "question": "I was looking forward ...... at the new restaurant, but it was closed.",
+      "answers": [
+        "to eat",
+        "to have eaten",
+        "to eating",
+        "eating"
+      ],
+      "correct_answer": "to eating",
+      "id": 17
+    },
+    {
+      "question": "Once the plane is in the air, you can ...... your seat belts if you wish.",
+      "answers": [
+        "undress",
+        "unfasten",
+        "unlock",
+        "untie"
+      ],
+      "correct_answer": "unfasten",
+      "id": 18
+    },
+    {
+      "question": "I left my last job because I had no ...... to travel.",
+      "answers": [
+        "place",
+        "position",
+        "opportunity",
+        "possibility"
+      ],
+      "correct_answer": "opportunity",
+      "id": 19
+    },
+    {
+      "question": "It wasn't a bad crash and ...... damage was done to my car.",
+      "answers": [
+        "little",
+        "small",
+        "light",
+        "mere"
+      ],
+      "correct_answer": "little",
+      "id": 20
+    },
+    {
+      "question": "I'd rather you ...... to her why we can't go.",
+      "answers": [
+        "would explain",
+        "explained",
+        "to explain",
+        "will explain"
+      ],
+      "correct_answer": "explained",
+      "id": 21
+    },
+    {
+      "question": "Before making a decision, the leader considered all ...... of the argument.",
+      "answers": [
+        "sides",
+        "features",
+        "perspectives",
+        "shades"
+      ],
+      "correct_answer": "sides",
+      "id": 22
+    },
+    {
+      "question": "This new printer is recommended as being ...... reliable.",
+      "answers": [
+        "greatly",
+        "highly",
+        "strongly",
+        "readily"
+      ],
+      "correct_answer": "highly",
+      "id": 23
+    },
+    {
+      "question": "When I realized I had dropped my gloves, I decided to ...... my steps.",
+      "answers": [
+        "retrace",
+        "regress",
+        "resume",
+        "return"
+      ],
+      "correct_answer": "retrace",
+      "id": 24
+    },
+    {
+      "question": "Anne's house is somewhere in the ...... of the railway station.",
+      "answers": [
+        "region",
+        "quarter",
+        "vicinity",
+        "district"
+      ],
+      "correct_answer": "vicinity",
+      "id": 25
+    },
+    {
+      "question": "Can you please pass me the salt? It's on the ...... of the table.",
+      "answers": [
+        "inside",
+        "center",
+        "top",
+        "bottom"
+      ],
+      "correct_answer": "top",
+      "id": 26
+    },
+    {
+      "question": "I didn't ...... to hurt your feelings. I was just being honest.",
+      "answers": [
+        "expect",
+        "plan",
+        "mean",
+        "intend"
+      ],
+      "correct_answer": "mean",
+      "id": 27
+    },
+    {
+      "question": "The movie ended ...... a thrilling car chase scene.",
+      "answers": [
+        "by",
+        "with",
+        "through",
+        "between"
+      ],
+      "correct_answer": "with",
+      "id": 28
+    },
+    {
+      "question": "Would you mind ...... me a glass of water, please?",
+      "answers": [
+        "making",
+        "doing",
+        "fetching",
+        "pouring"
+      ],
+      "correct_answer": "pouring",
+      "id": 29
+    },
+    {
+      "question": "...... hard you work, success is not guaranteed.",
+      "answers": [
+        "No matter",
+        "Although",
+        "However much",
+        "Whenever"
+      ],
+      "correct_answer": "However much",
+      "id": 30
+    },
+    {
+      "question": "It was just last week ...... I started my new job.",
+      "answers": [
+        "then",
+        "since",
+        "after",
+        "that"
+      ],
+      "correct_answer": "that",
+      "id": 31
+    },
+    {
+      "question": "I've ...... a new book online. It should arrive soon.",
+      "answers": [
+        "read",
+        "borrowed",
+        "downloaded",
+        "ordered"
+      ],
+      "correct_answer": "ordered",
+      "id": 32
+    },
+    {
+      "question": "Are you ...... to attend the conference next week?",
+      "answers": [
+        "considering",
+        "round",
+        "planned",
+        "thinking"
+      ],
+      "correct_answer": "thinking",
+      "id": 33
+    },
+    {
+      "question": "She moved to the city ...... a year ago.",
+      "answers": [
+        "quite",
+        "beyond",
+        "already",
+        "nearly"
+      ],
+      "correct_answer": "nearly",
+      "id": 34
+    }
+  ]
+  

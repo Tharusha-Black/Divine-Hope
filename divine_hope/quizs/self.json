@@ -1,0 +1,222 @@
+[
+    {
+      "question": "What does self-confidence mean to you?",
+      "answers": [
+        "Believing in your abilities",
+        "Feeling superior to others",
+        "Being overconfident",
+        "Having no doubts"
+      ],
+      "correct_answer": "Believing in your abilities",
+      "id": 1
+    },
+    {
+      "question": "How do you handle self-doubt and negative thoughts?",
+      "answers": [
+        "Ignore them and move forward",
+        "Let them consume you",
+        "Share them with others",
+        "Suppress them completely"
+      ],
+      "correct_answer": "Ignore them and move forward",
+      "id": 2
+    },
+    {
+      "question": "What is one accomplishment you're proud of that boosted your self-confidence?",
+      "answers": [
+        "Getting a promotion",
+        "Winning a competition",
+        "Making new friends",
+        "None of the above"
+      ],
+      "correct_answer": "Getting a promotion",
+      "id": 3
+    },
+    {
+      "question": "How does setting and achieving small goals contribute to self-confidence?",
+      "answers": [
+        "It doesn't have any impact",
+        "It can make you overconfident",
+        "It builds a sense of achievement",
+        "It makes you doubt yourself"
+      ],
+      "correct_answer": "It builds a sense of achievement",
+      "id": 4
+    },
+    {
+      "question": "What role does positive self-talk play in self-confidence?",
+      "answers": [
+        "It has no effect",
+        "It can lead to arrogance",
+        "It boosts self-esteem",
+        "It promotes self-doubt"
+      ],
+      "correct_answer": "It boosts self-esteem",
+      "id": 5
+    },
+    {
+      "question": "How can facing your fears help in building self-confidence?",
+      "answers": [
+        "It can't help at all",
+        "It reinforces your fears",
+        "It shows you what you're capable of",
+        "It leads to failure"
+      ],
+      "correct_answer": "It shows you what you're capable of",
+      "id": 6
+    },
+    {
+      "question": "What is the importance of self-acceptance in self-confidence?",
+      "answers": [
+        "It doesn't matter",
+        "It leads to arrogance",
+        "It helps you embrace your flaws",
+        "It promotes self-doubt"
+      ],
+      "correct_answer": "It helps you embrace your flaws",
+      "id": 7
+    },
+    {
+      "question": "How can receiving constructive feedback boost self-confidence?",
+      "answers": [
+        "It can't help at all",
+        "It leads to defensiveness",
+        "It provides valuable insights for improvement",
+        "It makes you give up"
+      ],
+      "correct_answer": "It provides valuable insights for improvement",
+      "id": 8
+    },
+    {
+      "question": "What is one step you can take today to improve your self-confidence?",
+      "answers": [
+        "Nothing, I'm already confident enough",
+        "Set a small achievable goal",
+        "Avoid challenges",
+        "Compare myself to others"
+      ],
+      "correct_answer": "Set a small achievable goal",
+      "id": 9
+    },
+    {
+      "question": "What does self-care have to do with self-confidence?",
+      "answers": [
+        "It's irrelevant",
+        "It leads to self-indulgence",
+        "It contributes to overall well-being",
+        "It makes you self-conscious"
+      ],
+      "correct_answer": "It contributes to overall well-being",
+      "id": 10
+    },
+    {
+      "question": "What strategies can help you overcome self-doubt when facing a challenge?",
+      "answers": [
+        "Avoid the challenge",
+        "Seek support from others",
+        "Criticize yourself",
+        "Hide your feelings"
+      ],
+      "correct_answer": "Seek support from others",
+      "id": 11
+    },
+    {
+      "question": "How does setting realistic expectations contribute to self-confidence?",
+      "answers": [
+        "It doesn't matter",
+        "It leads to complacency",
+        "It prevents disappointment",
+        "It fosters self-doubt"
+      ],
+      "correct_answer": "It prevents disappointment",
+      "id": 12
+    },
+    {
+      "question": "What role does gratitude play in building self-confidence?",
+      "answers": [
+        "It doesn't have any role",
+        "It leads to arrogance",
+        "It helps you focus on positives",
+        "It promotes self-doubt"
+      ],
+      "correct_answer": "It helps you focus on positives",
+      "id": 13
+    },
+    {
+      "question": "How can visualization techniques boost self-confidence?",
+      "answers": [
+        "They have no effect",
+        "They lead to unrealistic expectations",
+        "They help you mentally prepare for success",
+        "They make you anxious"
+      ],
+      "correct_answer": "They help you mentally prepare for success",
+      "id": 14
+    },
+    {
+      "question": "What is the connection between self-awareness and self-confidence?",
+      "answers": [
+        "There's no connection",
+        "Self-awareness can lead to self-doubt",
+        "Understanding your strengths and weaknesses builds confidence",
+        "Self-awareness leads to arrogance"
+      ],
+      "correct_answer": "Understanding your strengths and weaknesses builds confidence",
+      "id": 15
+    },
+    {
+      "question": "How does celebrating your achievements impact self-confidence?",
+      "answers": [
+        "It's irrelevant",
+        "It leads to complacency",
+        "It reinforces your self-doubt",
+        "It boosts self-esteem"
+      ],
+      "correct_answer": "It boosts self-esteem",
+      "id": 16
+    },
+    {
+      "question": "What is the significance of embracing failure in building self-confidence?",
+      "answers": [
+        "Failure has no significance",
+        "It leads to self-criticism",
+        "Failure is a valuable learning experience",
+        "It makes you give up"
+      ],
+      "correct_answer": "Failure is a valuable learning experience",
+      "id": 17
+    },
+    {
+      "question": "How can positive affirmations help improve self-confidence?",
+      "answers": [
+        "They don't help at all",
+        "They lead to arrogance",
+        "They challenge your beliefs",
+        "They boost self-esteem"
+      ],
+      "correct_answer": "They boost self-esteem",
+      "id": 18
+    },
+    {
+      "question": "What role does self-reflection play in self-confidence?",
+      "answers": [
+        "It's irrelevant",
+        "It leads to self-criticism",
+        "It helps you identify areas for improvement",
+        "Self-reflection promotes self-doubt"
+      ],
+      "correct_answer": "It helps you identify areas for improvement",
+      "id": 19
+    },
+    {
+      "question": "How does positive feedback from others affect self-confidence?",
+      "answers": [
+        "It has no effect",
+        "It leads to arrogance",
+        "It reinforces self-doubt",
+        "It boosts self-esteem"
+      ],
+      "correct_answer": "It boosts self-esteem",
+      "id": 20
+    }
+  ]

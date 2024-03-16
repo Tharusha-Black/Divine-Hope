@@ -1,0 +1,464 @@
+[
+    {
+      "question": "If a car travels at a speed of 60 miles per hour, how far will it travel in 3 hours?",
+      "answers": [
+        "120 miles",
+        "150 miles",
+        "180 miles",
+        "200 miles"
+      ],
+      "correct_answer": "180 miles",
+      "id": 1
+    },
+    {
+      "question": "If the price of a shirt is $20 and it is on sale for 25% off, what is the sale price?",
+      "answers": [
+        "$10",
+        "$15",
+        "$18",
+        "$25"
+      ],
+      "correct_answer": "$15",
+      "id": 2
+    },
+    {
+      "question": "If a rectangle has a length of 8 inches and a width of 4 inches, what is its area?",
+      "answers": [
+        "12 square inches",
+        "16 square inches",
+        "24 square inches",
+        "32 square inches"
+      ],
+      "correct_answer": "32 square inches",
+      "id": 3
+    },
+    {
+      "question": "If 3x + 5 = 20, what is the value of x?",
+      "answers": [
+        "3",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": 5,
+      "id": 4
+    },
+    {
+      "question": "If a pizza is divided into 8 equal slices and 3 slices are eaten, how many slices are left?",
+      "answers": [
+        "1 slice",
+        "2 slices",
+        "3 slices",
+        "5 slices"
+      ],
+      "correct_answer": "5 slices",
+      "id": 5
+    },
+    {
+      "question": "If 2 apples cost $0.60, how much do 5 apples cost?",
+      "answers": [
+        "$1.00",
+        "$1.50",
+        "$2.00",
+        "$2.50"
+      ],
+      "correct_answer": "$1.50",
+      "id": 6
+    },
+    {
+      "question": "If the time is 3:45 PM, how many minutes are left until 4:30 PM?",
+      "answers": [
+        "15 minutes",
+        "30 minutes",
+        "45 minutes",
+        "60 minutes"
+      ],
+      "correct_answer": "45 minutes",
+      "id": 7
+    },
+    {
+      "question": "If a box contains 12 red balls and 8 green balls, what is the probability of randomly selecting a green ball?",
+      "answers": [
+        "1/2",
+        "2/5",
+        "3/5",
+        "2/3"
+      ],
+      "correct_answer": "2/5",
+      "id": 8
+    },
+    {
+      "question": "If a train travels at a speed of 80 kilometers per hour, how far will it travel in 2.5 hours?",
+      "answers": [
+        "100 kilometers",
+        "150 kilometers",
+        "200 kilometers",
+        "250 kilometers"
+      ],
+      "correct_answer": "200 kilometers",
+      "id": 9
+    },
+    {
+      "question": "If a book originally costs $30 and is on sale for 20% off, what is the sale price?",
+      "answers": [
+        "$6",
+        "$12",
+        "$18",
+        "$24"
+      ],
+      "correct_answer": "$24",
+      "id": 10
+    },
+    {
+      "question": "If a square has a side length of 6 inches, what is its area?",
+      "answers": [
+        "12 square inches",
+        "18 square inches",
+        "24 square inches",
+        "36 square inches"
+      ],
+      "correct_answer": "36 square inches",
+      "id": 11
+    },
+    {
+      "question": "If 2y - 7 = 11, what is the value of y?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": 9,
+      "id": 12
+    },
+    {
+      "question": "If a bag contains 10 marbles and 4 marbles are drawn at random, how many marbles are left?",
+      "answers": [
+        "2 marbles",
+        "3 marbles",
+        "4 marbles",
+        "5 marbles"
+      ],
+      "correct_answer": "6 marbles",
+      "id": 13
+    },
+    {
+      "question": "If 3 bananas cost $0.75, how much do 8 bananas cost?",
+      "answers": [
+        "$1.00",
+        "$1.50",
+        "$2.00",
+        "$2.25"
+      ],
+      "correct_answer": "$2.00",
+      "id": 14
+    },
+    {
+      "question": "If it is currently 10:15 AM, how many minutes are left until 11:30 AM?",
+      "answers": [
+        "45 minutes",
+        "60 minutes",
+        "75 minutes",
+        "90 minutes"
+      ],
+      "correct_answer": "75 minutes",
+      "id": 15
+    },
+    {
+      "question": "If a deck of cards contains 52 cards and 4 cards are drawn at random, what is the probability of drawing a red card?",
+      "answers": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1/8"
+      ],
+      "correct_answer": "1/2",
+      "id": 16
+    },
+    {
+      "question": "If a car travels at a speed of 65 miles per hour, how long will it take to travel 260 miles?",
+      "answers": [
+        "2 hours",
+        "3 hours",
+        "4 hours",
+        "5 hours"
+      ],
+      "correct_answer": "4 hours",
+      "id": 17
+    },
+    {
+      "question": "If a shirt originally costs $25 and is on sale for 30% off, what is the sale price?",
+      "answers": [
+        "$5",
+        "$10",
+        "$15",
+        "$20"
+      ],
+      "correct_answer": "$17.50",
+      "id": 18
+    },
+    {
+      "question": "If a rectangle has a length of 10 centimeters and a width of 8 centimeters, what is its perimeter?",
+      "answers": [
+        "20 centimeters",
+        "36 centimeters",
+        "46 centimeters",
+        "50 centimeters"
+      ],
+      "correct_answer": "36 centimeters",
+      "id": 19
+    },
+    {
+      "question": "If 4x + 3 = 19, what is the value of x?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct_answer": 4,
+      "id": 20
+    },
+    {
+      "question": "If a box contains 15 red balls and 10 green balls, what is the probability of randomly selecting a green ball?",
+      "answers": [
+        "1/4",
+        "1/3",
+        "2/5",
+        "3/5"
+      ],
+      "correct_answer": "1/4",
+      "id": 21
+    },
+    {
+      "question": "If a train travels at a speed of 100 kilometers per hour, how long will it take to travel 300 kilometers?",
+      "answers": [
+        "2 hours",
+        "3 hours",
+        "4 hours",
+        "5 hours"
+      ],
+      "correct_answer": "3 hours",
+      "id": 22
+    },
+    {
+      "question": "If a book originally costs $40 and is on sale for 15% off, what is the sale price?",
+      "answers": [
+        "$6",
+        "$10",
+        "$24",
+        "$34"
+      ],
+      "correct_answer": "$34",
+      "id": 23
+    },
+    {
+      "question": "If a square has a side length of 7 inches, what is its area?",
+      "answers": [
+        "14 square inches",
+        "21 square inches",
+        "28 square inches",
+        "49 square inches"
+      ],
+      "correct_answer": "49 square inches",
+      "id": 24
+    },
+    {
+      "question": "If 5y - 2 = 13, what is the value of y?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": 3,
+      "id": 25
+    },
+    {
+      "question": "If a bag contains 12 marbles and 6 marbles are drawn at random, how many marbles are left?",
+      "answers": [
+        "2 marbles",
+        "4 marbles",
+        "6 marbles",
+        "8 marbles"
+      ],
+      "correct_answer": "6 marbles",
+      "id": 26
+    },
+    {
+      "question": "If 4 apples cost $1.20, how much do 10 apples cost?",
+      "answers": [
+        "$2.50",
+        "$3.00",
+        "$3.50",
+        "$4.00"
+      ],
+      "correct_answer": "$3.00",
+      "id": 27
+    },
+    {
+      "question": "If it is currently 2:30 PM, how many minutes are left until 4:00 PM?",
+      "answers": [
+        "30 minutes",
+        "60 minutes",
+        "90 minutes",
+        "120 minutes"
+      ],
+      "correct_answer": "90 minutes",
+      "id": 28
+    },
+    {
+      "question": "If a deck of cards contains 52 cards and 5 cards are drawn at random, what is the probability of drawing a face card (king, queen, or jack)?",
+      "answers": [
+        "1/13",
+        "1/4",
+        "3/10",
+        "1/2"
+      ],
+      "correct_answer": "1/10",
+      "id": 29
+    },
+    {
+      "question": "If a car travels at a speed of 70 miles per hour, how long will it take to travel 280 miles?",
+      "answers": [
+        "2 hours",
+        "3 hours",
+        "4 hours",
+        "5 hours"
+      ],
+      "correct_answer": "4 hours",
+      "id": 30
+    },
+    {
+      "question": "If a dress originally costs $50 and is on sale for 40% off, what is the sale price?",
+      "answers": [
+        "$10",
+        "$20",
+        "$30",
+        "$40"
+      ],
+      "correct_answer": "$30",
+      "id": 31
+    },
+    {
+      "question": "If a rectangle has a length of 12 centimeters and a width of 9 centimeters, what is its perimeter?",
+      "answers": [
+        "21 centimeters",
+        "30 centimeters",
+        "36 centimeters",
+        "42 centimeters"
+      ],
+      "correct_answer": "42 centimeters",
+      "id": 32
+    },
+    {
+      "question": "If 6x + 2 = 20, what is the value of x?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": 3,
+      "id": 33
+    },
+    {
+      "question": "If a box contains 18 red balls and 12 green balls, what is the probability of randomly selecting a green ball?",
+      "answers": [
+        "1/3",
+        "2/3",
+        "1/2",
+        "3/4"
+      ],
+      "correct_answer": "1/3",
+      "id": 34
+    },
+    {
+      "question": "If a train travels at a speed of 120 kilometers per hour, how long will it take to travel 240 kilometers?",
+      "answers": [
+        "1 hour",
+        "2 hours",
+        "3 hours",
+        "4 hours"
+      ],
+      "correct_answer": "2 hours",
+      "id": 35
+    },
+    {
+      "question": "If a book originally costs $35 and is on sale for 25% off, what is the sale price?",
+      "answers": [
+        "$8.75",
+        "$15",
+        "$20.75",
+        "$26.25"
+      ],
+      "correct_answer": "$26.25",
+      "id": 36
+    },
+    {
+      "question": "If a square has a side length of 5 inches, what is its area?",
+      "answers": [
+        "10 square inches",
+        "15 square inches",
+        "20 square inches",
+        "25 square inches"
+      ],
+      "correct_answer": "25 square inches",
+      "id": 37
+    },
+    {
+      "question": "If 7y - 4 = 17, what is the value of y?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": 3,
+      "id": 38
+    },
+    {
+      "question": "If a bag contains 20 marbles and 8 marbles are drawn at random, how many marbles are left?",
+      "answers": [
+        "4 marbles",
+        "6 marbles",
+        "8 marbles",
+        "12 marbles"
+      ],
+      "correct_answer": "12 marbles",
+      "id": 39
+    },
+    {
+      "question": "If 5 oranges cost $1.25, how much do 12 oranges cost?",
+      "answers": [
+        "$2.40",
+        "$3.00",
+        "$3.60",
+        "$4.20"
+      ],
+      "correct_answer": "$3.00",
+      "id": 40
+    },
+    {
+      "question": "If it is currently 1:45 PM, how many minutes are left until 3:15 PM?",
+      "answers": [
+        "30 minutes",
+        "60 minutes",
+        "90 minutes",
+        "120 minutes"
+      ],
+      "correct_answer": "90 minutes",
+      "id": 41
+    },
+    {
+      "question": "If a deck of cards contains 52 cards and 6 cards are drawn at random, what is the probability of drawing an ace?",
+      "answers": [
+        "1/13",
+        "1/6",
+        "1/4",
+        "1/2"
+      ],
+      "correct_answer": "1/13",
+      "id": 42
+    }
+  ]

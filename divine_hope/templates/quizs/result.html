@@ -1,0 +1,14 @@
+{% extends 'main/base.html' %}
+{% block content %}
+    <h1>Result</h1>
+    <a href="{% url 'generate_model' %}" class="btn button-success">Get My Lessons</a>
+    {% if user_score %}
+        <p>Your aptest score: {{ user_score.engTest }}</p>
+        <p>Your aptest score: {{ user_score.aptest }}</p>
+        <p>Your self score: {{ user_score.selfTest }}</p>
+    {% else %}
+        <p>No aptest score available.</p>
+    {% endif %}
+
+
+{% endblock %}

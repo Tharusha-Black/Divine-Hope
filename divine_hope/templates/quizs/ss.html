@@ -1,0 +1,11 @@
+{% extends 'main/base.html' %}
+{% block content %}
+    <h1>Result</h1>
+    {% if prediction %}
+        <p>Your aptest score: {{ prediction }}</p>
+    {% else %}
+        <p>No aptest score available.</p>
+    {% endif %}
+
+    <a href="{url,'generate_model'}" class="btn button-success">Get My Lessons</a>
+{% endblock %}
